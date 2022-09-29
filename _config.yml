@@ -20,7 +20,7 @@
 #baseurl: "" # This is better empty
 subpath: "/resume" # Could be a subsite of a domain at a path, ex. "/sub-site"
 google_analytics: UA-697953-3 # The UA- code provided by GA
-title: "John Doe"
+title: "Abraham Pilkington"
 
 ## The <html> tag has language and language direction. We can make it configurable
 html:
@@ -30,7 +30,7 @@ html:
 
 ## Standard <meta> tags for SEO, etc.
 meta:
-  description: "John Doe transforms organizations."
+  description: "Abraham Pilkington Game Changer."
   generator: "[Jekyll](https://github.com/mojombo/jekyll)"
   image:
     alt: "Site default social image" # It's okay for this to be an empty string if the image is decorative
@@ -54,8 +54,8 @@ schema:
 ## @see https://developer.twitter.com/en/docs/tweets/optimize-with-cards/guides/getting-started
 twitter:
   card: "summary_large_image"
-  creator: "@ao5357"
-  site: "@ao5357"
+  creator: "@AbePilk76"
+  site: "@AbePilk76"
 
 ## Woff2 files declared as webfonts in your css, relative to /assets/fonts/
 ## Placing them here sets them to be preloaded in the head, which reduces request chaining for better performance.
